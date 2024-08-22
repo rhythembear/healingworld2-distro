@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/healingworld2/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "healingworld2 (Minecraft 1.20.1)",
+    "description": "healingworld2 Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/logo.jpg",
+    "address": "힐링월드2.서버.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
