@@ -531,15 +531,6 @@
               "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo-PlayGround-distro/main/servers/healingworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
               "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
             }
-          },
-          {
-            "id": "resource.zip",
-            "name": "resource.zip",
-            "type": "File",
-            "artifact": {
-              "size": 5475895,
-              "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo-PlayGround-distro/main/servers/healingworld2-1.20.1/files/resourcepacks/resource.zip"
-            }
           }
         ]
       }
