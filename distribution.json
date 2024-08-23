@@ -538,9 +538,7 @@
             "type": "File",
             "artifact": {
               "size": 5475895,
-              "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo-PlayGround-distro/main/servers/healingworld2-1.20.1/files/resourcepacks/resource.zip",
-              "MD5": "05c32250aa1d8c95603e8f1b1f8e274c",
-              "path": "resourcepacks/resource.zip"
+              "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo-PlayGround-distro/main/servers/healingworld2-1.20.1/files/resourcepacks/resource.zip"
             }
           }
         ]
