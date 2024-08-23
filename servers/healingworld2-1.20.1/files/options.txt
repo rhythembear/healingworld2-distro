@@ -1,0 +1,4 @@
+guiScale:0
+resourcePacks:["vanilla","mod_resources","file/resource.zip"]
+lang:ko_kr
+key_key.chat:key.keyboard.enter
