@@ -8,7 +8,7 @@
     },
     "servers": [
       {
-        "id": "healingworld2-1.20.1",
+        "id": "healingworld2",
         "name": "힐링월드 시즌2",
         "description": "힐링월드 시즌2 Running Minecraft 1.20.1 (Forge v47.3.0)",
         "icon": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/logo.jpg",
