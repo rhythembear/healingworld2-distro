@@ -12,7 +12,7 @@
         "name": "힐링월드 시즌2",
         "description": "힐링월드 시즌2 Running Minecraft 1.20.1 (Forge v47.3.0)",
         "icon": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/logo.jpg",
-        "version": "1.0.1",
+        "version": "1.0.3",
         "address": "힐링월드.메인.한국",
         "minecraftVersion": "1.20.1",
         "discord": {
@@ -547,7 +547,7 @@
             "name": "options.txt",
             "type": "File",
             "artifact": {
-              "size": 6950,
+              "size": 6946,
               "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/files/options.txt",
               "path": "options.txt"
             }
