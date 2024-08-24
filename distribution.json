@@ -443,6 +443,16 @@
             }
           },
           {
+            "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
+            "name": "OptiFine_1.20.1_HD_U_I6",
+            "type": "Library",
+            "artifact": {
+              "size": 7145205,
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
+              "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+            }
+          },
+          {
             "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
             "name": "Ferrite Core",
             "type": "ForgeMod",
@@ -498,8 +508,11 @@
             "type": "ForgeMod",
             "artifact": {
               "size": 738345,
-              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/modernfix-forge-5.17.0+mc1.20.1.jar",
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/optionalon/modernfix-forge-5.17.0+mc1.20.1.jar",
               "MD5": "35a14ca70d2510656ec7cf72ccee3612"
+            },
+            "required": {
+              "value": false
             }
           },
           {
@@ -520,16 +533,6 @@
               "size": 7704422,
               "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.14.jar",
               "MD5": "749ae83bc1505505df3da6a0a930c354"
-            }
-          },
-          {
-            "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
-            "name": "OptiFine_1.20.1_HD_U_I6",
-            "type": "Library",
-            "artifact": {
-              "size": 7145205,
-              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
-              "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
             }
           },
           {
