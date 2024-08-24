@@ -12,7 +12,7 @@
         "name": "힐링월드 시즌2",
         "description": "힐링월드 시즌2 Running Minecraft 1.20.1 (Forge v47.3.0)",
         "icon": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/logo.jpg",
-        "version": "1.0.2",
+        "version": "1.0.0",
         "address": "힐링월드.메인.한국",
         "minecraftVersion": "1.20.1",
         "discord": {
@@ -443,13 +443,13 @@
             }
           },
           {
-            "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
-            "name": "OptiFine_1.20.1_HD_U_I6",
-            "type": "Library",
+            "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.30+mc1.20.1@jar",
+            "name": "Embeddium",
+            "type": "ForgeMod",
             "artifact": {
-              "size": 7145205,
-              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
-              "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+              "size": 1320429,
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/embeddium-0.3.30+mc1.20.1.jar",
+              "MD5": "adac1c5669c7ff5eee0ced92b9346c75"
             }
           },
           {
@@ -508,11 +508,8 @@
             "type": "ForgeMod",
             "artifact": {
               "size": 738345,
-              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/optionalon/modernfix-forge-5.17.0+mc1.20.1.jar",
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/modernfix-forge-5.17.0+mc1.20.1.jar",
               "MD5": "35a14ca70d2510656ec7cf72ccee3612"
-            },
-            "required": {
-              "value": false
             }
           },
           {
@@ -526,6 +523,16 @@
             }
           },
           {
+            "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+            "name": "Oculus",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 2831148,
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+              "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+            }
+          },
+          {
             "id": "de.maxhenkel:voicechat:1.20.1-2.5.14@jar",
             "name": "Simple Voice Chat",
             "type": "ForgeMod",
@@ -533,6 +540,16 @@
               "size": 7704422,
               "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.14.jar",
               "MD5": "749ae83bc1505505df3da6a0a930c354"
+            }
+          },
+          {
+            "id": "options.txt",
+            "name": "options.txt",
+            "type": "File",
+            "artifact": {
+              "size": 118,
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/files/options.txt",
+              "path": "options.txt"
             }
           },
           {
