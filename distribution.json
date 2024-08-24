@@ -537,7 +537,7 @@
             "name": "options.txt",
             "type": "File",
             "artifact": {
-              "size": 118,
+              "size": 115,
               "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/files/options.txt",
               "path": "options.txt"
             }
