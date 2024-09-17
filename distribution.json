@@ -12,7 +12,7 @@
         "name": "힐링월드 시즌2",
         "description": "힐링월드 시즌2 Running Minecraft 1.20.1 (Forge v47.3.0)",
         "icon": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/logo.jpg",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "address": "힐링월드.메인.한국",
         "minecraftVersion": "1.20.1",
         "discord": {
@@ -538,8 +538,12 @@
             "type": "ForgeMod",
             "artifact": {
               "size": 7704422,
-              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.14.jar",
+              "url": "https://raw.githubusercontent.com/rhythembear/healingworld2-distro/main/servers/healingworld2-1.20.1/forgemods/optionaloff/voicechat-forge-1.20.1-2.5.14.jar",
               "MD5": "749ae83bc1505505df3da6a0a930c354"
+            },
+            "required": {
+              "value": false,
+              "def": false
             }
           },
           {
